@@ -14,7 +14,7 @@
 		88ADD0631CB0461A0036750D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88ADD0621CB0461A0036750D /* Assets.xcassets */; };
 		88ADD0661CB0461A0036750D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88ADD0641CB0461A0036750D /* LaunchScreen.storyboard */; };
 		88ADD06E1CB046A50036750D /* cartes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ADD06D1CB046A50036750D /* cartes.swift */; };
-		88E754971D46363300CF84E2 /* cartes.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 88E754961D46363300CF84E2 /* cartes.tiff */; };
+		88E754991D46373D00CF84E2 /* cartes.png in Resources */ = {isa = PBXBuildFile; fileRef = 88E754981D46373D00CF84E2 /* cartes.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		88ADD0651CB0461A0036750D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		88ADD0671CB0461A0036750D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		88ADD06D1CB046A50036750D /* cartes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = cartes.swift; sourceTree = "<group>"; };
-		88E754961D46363300CF84E2 /* cartes.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = cartes.tiff; sourceTree = "<group>"; };
+		88E754981D46373D00CF84E2 /* cartes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cartes.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 				88ADD05D1CB0461A0036750D /* GameViewController.swift */,
 				88ADD06D1CB046A50036750D /* cartes.swift */,
 				88ADD05F1CB0461A0036750D /* Main.storyboard */,
-				88E754961D46363300CF84E2 /* cartes.tiff */,
+				88E754981D46373D00CF84E2 /* cartes.png */,
 				88ADD0621CB0461A0036750D /* Assets.xcassets */,
 				88ADD0641CB0461A0036750D /* LaunchScreen.storyboard */,
 				88ADD0671CB0461A0036750D /* Info.plist */,
@@ -132,10 +132,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				88E754971D46363300CF84E2 /* cartes.tiff in Resources */,
 				88ADD0661CB0461A0036750D /* LaunchScreen.storyboard in Resources */,
 				88ADD0631CB0461A0036750D /* Assets.xcassets in Resources */,
 				88ADD0611CB0461A0036750D /* Main.storyboard in Resources */,
+				88E754991D46373D00CF84E2 /* cartes.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
